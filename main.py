@@ -1,6 +1,6 @@
 
 
-def hello_world(string)
+def hello_world(string):
   print(f'Hello world of {string}!')
 
 
